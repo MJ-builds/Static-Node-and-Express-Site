@@ -1,0 +1,32 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "project_name": "Random Quote Generator",
+        "description": "This is the first project",
+        "technologies": ["JavaScript", "CSS", "HTML"],
+        "live_link": "https://mj-builds.github.io/random-quote-generator/",
+        "github_link": "https://github.com/MJ-builds/random-quote-generator",
+        "image_urls": ["/images/random_quotes/1.jpg", "/images/random_quotes/2.jpg","/images/random_quotes/3.jpg"]
+      },
+      {
+        "id": 2,
+        "project_name": "Data Pagination and Filtering",
+        "description": "This is the second project",
+        "technologies": ["JavaScript", "CSS", "HTML"],
+        "live_link": "https://mj-builds.github.io/data-pagination-and-filtering/",
+        "github_link": "https://github.com/MJ-builds/data-pagination-and-filtering",
+        "image_urls": ["/images/pagination/1.jpg", "/images/pagination/2.jpg","/images/pagination/3.jpg","/images/pagination/4.jpg"]
+      },
+      {
+        "id": 3,
+        "project_name": "Interactive Form",
+        "description": "This is the third project",
+        "technologies": ["JavaScript", "CSS", "HTML"],
+        "live_link": "https://mj-builds.github.io/interactive-form/",
+        "github_link": "https://github.com/MJ-builds/interactive-form",
+        "image_urls": ["/images/interactive_form/1.jpg", "/images/interactive_form/2.jpg","/images/interactive_form/3.jpg","/images/interactive_form/4.jpg"]
+      }
+    ]
+  }
+  
