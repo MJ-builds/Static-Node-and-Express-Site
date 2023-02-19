@@ -40,7 +40,7 @@
         "id": 5,
         "project_name": "Public API Requests",
         "description": "This project retrieves completely random 12 employees and their specific data from an API database, and displays it to a webpage. The user can click on the employee's image to display a modal window with more detailed information about the employee. The user can also dynamically search for a specific employee by fist name, last name, or full name.",
-        "technologies": ["JavaScript", "CSS", "HTML"],
+        "technologies": ["JavaScript", "CSS", "HTML", "API"],
         "live_link": "https://mj-builds.github.io/Public-API-Requests/",
         "github_link": "https://github.com/MJ-builds/Public-API-Requests",
         "image_urls": ["/images/public_api/1.jpg", "/images/public_api/2.jpg","/images/public_api/3.jpg","/images/public_api/4.jpg"]
