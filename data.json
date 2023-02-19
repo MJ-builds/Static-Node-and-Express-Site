@@ -3,7 +3,7 @@
       {
         "id": 1,
         "project_name": "Random Quote Generator",
-        "description": "This is the first project",
+        "description": "A program project whereby a random quote and background color is generated from an array of quotes every 10 seconds. Button click functionality also allows the user to generate on demand.        ",
         "technologies": ["JavaScript", "CSS", "HTML"],
         "live_link": "https://mj-builds.github.io/random-quote-generator/",
         "github_link": "https://github.com/MJ-builds/random-quote-generator",
@@ -12,7 +12,7 @@
       {
         "id": 2,
         "project_name": "Data Pagination and Filtering",
-        "description": "This is the second project",
+        "description": "In this project, I created a list of 42 dummy students with pagination and full search functionality. Fully dynamic and responsive.",
         "technologies": ["JavaScript", "CSS", "HTML"],
         "live_link": "https://mj-builds.github.io/data-pagination-and-filtering/",
         "github_link": "https://github.com/MJ-builds/data-pagination-and-filtering",
@@ -21,11 +21,29 @@
       {
         "id": 3,
         "project_name": "Interactive Form",
-        "description": "This is the third project",
+        "description": "In this project, I created an interactive form (including full form validation) for a fictional conference called 'Full Stack Conference'. The form takes in some basic user information, and then allows the user to select from a range of workshops, and then displays the total cost of the selected workshops. Payment information is also collected and validated.",
         "technologies": ["JavaScript", "CSS", "HTML"],
         "live_link": "https://mj-builds.github.io/interactive-form/",
         "github_link": "https://github.com/MJ-builds/interactive-form",
         "image_urls": ["/images/interactive_form/1.jpg", "/images/interactive_form/2.jpg","/images/interactive_form/3.jpg","/images/interactive_form/4.jpg"]
+      },
+      {
+        "id": 4,
+        "project_name": "Phrase Hunter OOP Game",
+        "description": "This game randomly selects a phrase from the predefined list, and you as the player need to 'guess' the right letters that make up the full phrase. You have 5 lives to guess the phrase. If you guess the phrase correctly, you win. If you run out of lives, you lose. You can also use the keyboard to guess the letters.",
+        "technologies": ["JavaScript", "CSS", "HTML"],
+        "live_link": "https://mj-builds.github.io/Phrase-Hunter-OOP-Game/",
+        "github_link": "https://github.com/MJ-builds/Phrase-Hunter-OOP-Game",
+        "image_urls": ["/images/phrase_hunter/1.jpg", "/images/phrase_hunter/2.jpg","/images/phrase_hunter/3.jpg","/images/phrase_hunter/4.jpg"]
+      },
+      {
+        "id": 5,
+        "project_name": "Public API Requests",
+        "description": "This project retrieves completely random 12 employees and their specific data from an API database, and displays it to a webpage. The user can click on the employee's image to display a modal window with more detailed information about the employee. The user can also dynamically search for a specific employee by fist name, last name, or full name.",
+        "technologies": ["JavaScript", "CSS", "HTML"],
+        "live_link": "https://mj-builds.github.io/Public-API-Requests/",
+        "github_link": "https://github.com/MJ-builds/Public-API-Requests",
+        "image_urls": ["/images/phrase_hunter/1.jpg", "/images/phrase_hunter/2.jpg","/images/phrase_hunter/3.jpg","/images/phrase_hunter/4.jpg"]
       }
     ]
   }
