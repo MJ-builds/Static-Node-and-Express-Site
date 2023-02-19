@@ -43,7 +43,7 @@
         "technologies": ["JavaScript", "CSS", "HTML"],
         "live_link": "https://mj-builds.github.io/Public-API-Requests/",
         "github_link": "https://github.com/MJ-builds/Public-API-Requests",
-        "image_urls": ["/images/phrase_hunter/1.jpg", "/images/phrase_hunter/2.jpg","/images/phrase_hunter/3.jpg","/images/phrase_hunter/4.jpg"]
+        "image_urls": ["/images/public_api/1.jpg", "/images/public_api/2.jpg","/images/public_api/3.jpg","/images/public_api/4.jpg"]
       }
     ]
   }
