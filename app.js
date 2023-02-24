@@ -51,6 +51,7 @@ app.get('/projects/:id', (req, res) => {
 app.use((req,res,next) => {
   const err = new Error('The page you were looking for does not exist.');
   err.status = 404;
+  console.log(err.status);
   next(err);
 });
 
