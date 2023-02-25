@@ -1,10 +1,7 @@
-//not sure if this goes here but going with it for now.
-//all of the below is my code:
-
-
 //import the express library
 const express = require('express');
 const path = require('path');
+
 //instantiate the app
 const app = express();
 
